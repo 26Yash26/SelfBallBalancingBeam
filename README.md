@@ -121,12 +121,12 @@ Both VL53L0X sensors share the default I2C address `0x29` and cannot share a bus
 The bar pivots at its midpoint on a 3D-printed mount. The MG995 servo horn connects to a linkage arm that converts rotational motion into bar tilt. VL53L0X sensor brackets at each end hold the modules pointing inward along the bar axis.
 
 <!-- CAD IMAGE 1: Replace the path below with your actual image -->
-**Figure 1 — Isometric View (Full Assembly)**
-![CAD Isometric View](path/to/cad_image_1.png)
+**Figure 1**
+![CAD Isometric View](CAD/Screenshot 2026-06-11 112109.png)
 
 <!-- CAD IMAGE 2: Replace the path below with your actual image -->
 **Figure 2 — Exploded View (Servo Mount & Pivot Detail)**
-![CAD Exploded View](path/to/cad_image_2.png)
+![CAD Exploded View](CAD/Screenshot 2026-06-11 111944.png)
 
 ---
 
